@@ -1,0 +1,560 @@
+--- p1 ---
+ 
+ 
+Raadsvoorstel 
+ 
+Ontwikkeling en realisatie van een warmtenet in Middelsee 
+Zaaknummer: 2026-282643 
+----------------------------------------------------------- 
+ 
+Aan de gemeenteraad. 
+ 
+De nieuwbouwwijk Middelsee is volop in ontwikkeling. In totaal worden in Middelsee 
+circa 3.200 woningen gerealiseerd. Voor 1.647 nog te bouwen woningen, verdeeld over 
+onder meer Wetterstêd II, De Fellingen II, Barrahûs en Boksumerhoeke, wordt een 
+collectief warmtenet beoogd. Daarnaast is voorzien dat verschillende utiliteitsfuncties, 
+waaronder voorzieningen op het sportpark, een supermarkt, maatschappelijke functies 
+en onderwijsvoorzieningen, op het systeem kunnen worden aangesloten. Met dit 
+voorstel wordt voorgesteld om een collectief warmtenet aan te leggen in het 
+deelgebied Middelsee en de grondexploitatie De Zuidlanden/Middelsee hiervoor te 
+wijzigingen. Dit raadsvoorstel licht de achtergrond en doelstelling, het technische 
+ontwerp en de planning, de organisatie & governance, de financiën, het aanbod aan 
+bewoners en de risico’s en de vervolgstappen toe. 
+ 
+1. Aanleiding 
+De ontwikkeling van het warmtenet Middelsee hangt rechtstreeks samen met de 
+netcongestie in het gebied. De beschikbare elektriciteitscapaciteit is onvoldoende om 
+de geplande woningbouw, conform planning, volledig te realiseren met individuele 
+elektrische warmtevoorzieningen. 
+ 
+In 2021 is met Liander afgesproken om, vooruitlopend op de realisatie van het nieuwe 
+onderstation Boksumerdyk, netcapaciteit te reserveren voor 2.100 nieuwe woningen in 
+De Zuidlanden. Op basis van de toenmalige planning, waarbij het onderstation in 2027 
+gereed zou zijn, was deze reservering voldoende om de woningbouw volgens planning 
+te realiseren. Door de vertraging van het onderstation is deze afspraak echter niet 
+langer toereikend. Naast de financiële impact op het resultaat van de grondexploitatie 
+Zuidlanden/Middelsee, is er hierdoor sprake van een forse vertraging bij het realiseren 
+van de geplande woningen.  
+ 
+Om de woningbouw ondanks deze vertraging doorgang te laten vinden, is samen met 
+Liander onderzocht welke maatregelen de belasting van het elektriciteitsnet kunnen 
+beperken. Hieruit bleek dat een collectief warmtenet de grootste bijdrage kan leveren. 
+Door gebruik te maken van centrale warmteopwekking, warmteopslag en warmte-
+koudeopslag (WKO) wordt het benodigde elektrische piekvermogen aanzienlijk beperkt 
+ten opzichte van individuele lucht-waterwarmtepompen. Volgens Liander kunnen 
+hierdoor binnen dezelfde beschikbare netcapaciteit ongeveer twee keer zoveel 
+woningen worden aangesloten. Hiermee voorkomen we een vertraging in de realisatie 
+van de geplande woningen in De Zuidland/Middelsee, beperken we de financiële impact 
+op deze grondexploitatie en maken wij ons minder afhankelijk van de planning en 
+investeringsopgave van onze netbeheerder. Het mag duidelijk zijn dat de 
+investeringsopgave van de netbeheerders in Nederland zeer groot is en dat de realisatie 
+voor hen geen eenvoudige opgave is. De aanleg van een warmtenet beperkt deze 
+afhankelijkheid van de netbeheerder sterk.   
+ 
+Het warmtenet maakt het mogelijk om de woningbouw zoveel mogelijk volgens de 
+vastgestelde planning te realiseren, zonder volledig afhankelijk te zijn van de 
+uitbreiding van het elektriciteitsnet. Daarbij is de planning van TenneT en Liander 
+onzeker. De eerdere vertraging van Boksumerdyk laat zien dat verdere verschuivingen 
+niet kunnen worden uitgesloten. Door nu te investeren in een warmtevoorziening met 
+een lagere elektriciteitsvraag wordt de woningbouw minder kwetsbaar voor dergelijke 
+vertragingen. 
+  
+--- p2 ---
+ 
+ 
+ 
+Blad 2 
+ 
+2. Impact netcapaciteit op geplande woningbouwopgave 
+Van de oorspronkelijke reservering voor 2.100 woningen is inmiddels capaciteit voor 
+282 woningen ingezet voor andere ontwikkelingen, waaronder de COA-locatie 
+Heliconstate (25), IKC Middelsee (50), GGZ (89) en de tijdelijke woningen voor 
+Oekraïners aan De Pier in Spoordok (118). Daarmee resteert een oorspronkelijke 
+reservering voor 1.818 woningen. 
+ 
+Medio 2026 zijn 1.224 woningen gerealiseerd of in een vergevorderd stadium met 
+toegekende netcapaciteit. Daarnaast zijn voor Middelsee 2.010 aanvullende woningen 
+aangemeld bij Liander, waarvan 1.647 worden voorzien van een warmtenetaansluiting. 
+Inmiddels is voor 1.120 van deze woningen definitief netcapaciteit toegekend. De 
+overige 890 aanvragen worden de komende tijd nog door Liander beoordeeld. 
+ 
+Hiermee wordt het effect van het warmtenet nu al zichtbaar. Totaal is er namelijk voor 
+2.344 woningen netcapaciteit toegekend, 526 woningen meer dan de oorspronkelijke 
+reservering. Wanneer ook de resterende aanvragen worden goedgekeurd, kan dit 
+oplopen tot totaal 3.234 woningen. Dit betekent dat er potentieel 1.416 woningen 
+meer kunnen worden aangesloten dan binnen de oorspronkelijke afspraak mogelijk 
+was. 
+ 
+Omschrijving Aantal woningen 
+Oorspronkelijke reservering Zuidlanden (2021) 2.100 
+Capaciteit ingezet voor andere ontwikkelingen -282 
+Resterende oorspronkelijke reservering 1.818 
+Reeds gerealiseerd of in realisatie met toegekende capaciteit 1.224 
+Totaal resterend 594 
+  
+Aanvullende aanvragen Middelsee 2.010 
+Waarvan voorzien op het warmtenet 1.647 
+Aanvullende aanvragen definitief goedgekeurd 1.120 
+Totaal extra goedgekeurd t.o.v. oorspronkelijke afspraak: 1.120-594 526 
+  
+Aanvragen in verdiepende netcheck 890 
+Potentieel extra woningen bij volledige goedkeuring 1.416 
+ 
+De toegekende capaciteit is het gevolg van de lagere elektriciteitsvraag die door het 
+warmtenet mogelijk wordt gemaakt. Indien het warmtenet niet wordt gerealiseerd, zal 
+Liander de aansluitaanvragen opnieuw moeten beoordelen op basis van de 
+piekbelasting van individuele warmtevoorzieningen. Naar verwachting leidt dit ertoe 
+dat een deel van de woningen waarvoor inmiddels capaciteit is toegekend, niet meer 
+tijdig kan worden aangesloten. Ook voor de aanvragen die nog in behandeling zijn, 
+wordt de kans op tijdige aansluiting aanzienlijk kleiner. 
+ 
+--- p3 ---
+ 
+ 
+ 
+Blad 3 
+ 
+ 
+Status elektrictiteitsaansluitingen Liander: Blauw: toegekend en gestart met realisatie, Groen: toegekend en nog 
+niet gestart, Oranje: In verdiepende netcheck bij Liander  
+ 
+3. Overige overwegingen voor de aanleg van het warmtenet 
+Naast de directe bijdrage aan het oplossen van de netcongestie zijn er verschillende 
+andere redenen om juist nu te kiezen voor de aanleg van een collectief warmtenet: 
+ 
+Verder invulling gemeentelijke ambities 
+Met de Omgevingsvisie en Addendum 3 op de Omgevingsvisie heeft de gemeenteraad de 
+ambitie uitgesproken om in 2050 volledig fossielvrij te zijn. Voor de warmtevoorziening 
+betekent dit dat Leeuwarden in 2050 volledig aardgasvrij is en gebruik maakt van lokale 
+en hernieuwbare warmtebronnen, zoals bodemwarmte en warmte uit 
+oppervlaktewater. Warmtenetten spelen hierin een belangrijke rol, met name in de 
+stad Leeuwarden. Deze warmtenetten maken het mogelijk om hele wijken en buurten 
+op een collectieve en duurzame manier van warmte te voorzien. 
+Met het Beleidsprogramma Energie en de Warmtevisie wordt deze ambitie verder 
+uitgewerkt met als doel om de gebouwde omgeving stapsgewijs te verduurzamen. Voor 
+Middelsee komt daar een concrete ruimtelijke noodzaak bij: de capaciteit van het 
+elektriciteitsnet is beperkt en individuele elektrische warmteoplossingen vragen 
+aanzienlijk meer piekvermogen dan een collectief warmtesysteem. 
+ 
+Een keuze die juist nu gemaakt moet worden  
+Middelsee bevindt zich in een fase waarin de warmtevoorziening nog integraal kan 
+worden meegenomen in de gebiedsontwikkeling. Het warmtenet kan gelijktijdig met de 
+overige ondergrondse infrastructuur worden aangelegd en ontwikkelaars kunnen hun 
+woningen hierop ontwerpen. Wanneer nu wordt gekozen voor individuele 
+warmtevoorzieningen, worden zowel de woningen als de infrastructuur daarop 
+ingericht. Een latere overstap naar een warmtenet wordt daardoor aanzienlijk 
+
+--- p4 ---
+ 
+ 
+ 
+Blad 4 
+ 
+complexer en kostbaarder. De mogelijkheid om op deze schaal een collectief 
+warmtesysteem te realiseren, is daarmee sterk afhankelijk van de keuze die nu wordt 
+gemaakt. 
+ 
+Toekomstige benutting van geothermie 
+Het warmtenet biedt de mogelijkheid om in de toekomst gebruik te maken van lokaal 
+beschikbare aardwarmte. In Leeuwarden wordt gewerkt aan de ontwikkeling van 
+geothermie als duurzame warmtebron. Door nu een collectieve warmte-infrastructuur 
+aan te leggen, ontstaat de mogelijkheid om deze bron op termijn te benutten zonder 
+dat woningen of het volledige distributienet hoeven te worden aangepast. Daarmee 
+blijft het systeem flexibel in de keuze van warmtebronnen en kan de afhankelijkheid 
+van elektriciteit voor warmteopwekking verder worden verminderd. 
+ 
+Mogelijkheid tot uitbreiding naar De Werp en andere ontwikkelingen 
+Het warmtenet vormt een basis voor toekomstige uitbreiding van de collectieve 
+warmtevoorziening. Zo ontstaat de mogelijkheid om ook de circa 1.000 geplande 
+woningen in De Werp aan te sluiten. Dit kan de elektriciteitsvraag van deze 
+ontwikkeling beperken en biedt kansen om de bestaande warmte-infrastructuur 
+efficiënter te benutten. Ook kunnen andere functies, zoals scholen, 
+sportvoorzieningen, maatschappelijke instellingen en commerciële gebouwen, worden 
+aangesloten. De technische en financiële haalbaarheid van dergelijke uitbreidingen 
+moet afzonderlijk worden beoordeeld. 
+Efficiënter en toekomstbestendiger energiesysteem 
+Een collectieve warmtevoorziening maakt het mogelijk om warmte centraal op te 
+wekken en op te slaan. Met collectieve warmtebuffers kan de warmteproductie 
+gedeeltelijk worden verschoven naar momenten waarop elektriciteit beschikbaar en 
+relatief goedkoop is. De WKO maakt daarnaast seizoensopslag van warmte en koude 
+mogelijk, waardoor warmtepompen efficiënter kunnen functioneren en minder 
+elektriciteit nodig hebben bij lage buitentemperaturen. Door de warmtevraag van 
+meerdere gebouwen te combineren, kunnen verschillen in gelijktijdigheid bovendien 
+worden benut. Hierdoor ontstaat een flexibel energiesysteem dat beter kan inspelen op 
+de beschikbaarheid van duurzame energie en de belasting van het elektriciteitsnet. 
+Voor utiliteitsgebouwen wordt daarnaast collectieve koeling voorzien, waardoor de 
+WKO ook hiervoor kan worden benut. 
+ 
+4. Uitgangspunten businesscase en technisch concept 
+In de afgelopen periode is het technische concept uitgewerkt en is een businesscase 
+opgesteld. De gemeente ontwikkelt het warmtenet in de ontwikkel- en realisatiefase 
+zelf, in lijn met aangenomen motie ‘Publiek meerderheidsbelang bij warmtenetten’ (28 
+mei 2025) en de nieuwe warmtewet. Financieel wordt het warmtenet als afzonderlijke 
+deel-GREX Warmtenet Middelsee ondergebracht binnen de GREX De Zuidlanden. 
+Daarmee kunnen de ontwikkeling van het warmtenet en de gebiedsontwikkeling in 
+planning en uitvoering integraal worden afgestemd, terwijl de kosten, opbrengsten en 
+risico’s van het warmtenet afzonderlijk inzichtelijk blijven. De definitieve juridische 
+vorm, de toekomstige exploitatie en eventuele samenwerking met andere partijen 
+worden op een later moment nader bepaald, waarbij het publieke meerderheidsbelang 
+wordt geborgd. Om het warmtenet in de grondexploitatie van de Zuidlanden op te 
+nemen is een deelgrex opgesteld. Wij stellen u dan ook voor om deze deelgrex vast te 
+stellen en de kredieten overeenkomstig beschikbaar te stellen.  
+ 
+Achtergrond en doelstelling 
+In 2024 heeft Arcadis in opdracht van de gemeente een haalbaarheidsstudie uitgevoerd 
+naar de warmtevoorziening van Middelsee. Daarbij zijn onder meer aansluiting op 
+geothermie en een lokale warmteoplossing met centrale warmtepompen onderzocht. 
+Uit deze studie volgt dat een collectief warmtesysteem technisch en financieel 
+haalbaar kan zijn én significant lagere impact op het elektriciteitsnet heeft waardoor 
+er meer woningen kunnen worden gebouwd binnen dezelfde beschikbare netcapaciteit. 
+--- p5 ---
+ 
+ 
+ 
+Blad 5 
+ 
+Op basis hiervan is het ontwerp verder uitgewerkt. Voor de ontwikkeling van het 
+warmtenet worden drie centrale publieke uitgangspunten gehanteerd: 
+• Betaalbaar: warmte uit het warmtenet is voor bewoners een gelijkwaardig 
+alternatief voor een individuele warmteoplossing. Uitgangspunt is een Leeuwarder 
+warmtetarief met 20% korting op het vastrecht en 5% korting op het variabele GJ-
+tarief ten opzichte van de maximumtarieven van de Autoriteit Consument en Markt 
+(ACM). Deze tarieven worden ook in Heechterp gehanteerd. 
+• Duurzaam: het systeem maakt zo efficiënt mogelijk gebruik van elektriciteit en 
+duurzame warmtebronnen en beperkt het gebruik van fossiele brandstoffen. 
+• Betrouwbaar: bewoners en andere afnemers moeten kunnen rekenen op een 
+stabiele warmtevoorziening en een voorspelbare tariefstructuur. 
+ 
+In de Warmtevisie 2021 is collectieve warmte benoemd als een van de kansrijke 
+oplossingsrichtingen voor de verduurzaming van de gebouwde omgeving. Voor 
+Middelsee is vervolgens, mede vanwege de netcongestie, een afzonderlijk 
+ontwikkeltraject gestart. De gemeente heeft de technische, organisatorische en 
+financiële ontwikkelrichting voor het warmtenet uitgewerkt. In de ontwikkel- en 
+realisatiefase blijft de regie bij de gemeente. Hierdoor kan de aanleg van het 
+warmtenet zoveel mogelijk meelopen met de aanleg van wegen, riolering, elektriciteit, 
+water en andere infrastructuur in de wijk, terwijl de financiële positie van het 
+warmtenet afzonderlijk wordt gevolgd. 
+ 
+Plangebied en netontwerp collectief warmtesysteem 
+Het huidige plangebied omvat circa 1.647 nieuwbouwwoningen in Wetterstêd II, De 
+Fellingen II, Barrahûs en Boksumerhoeke. Ongeveer 70% van deze woningen wordt naar 
+verwachting door marktpartijen ontwikkeld en circa 30% door woningcorporaties. 
+Daarnaast wordt rekening gehouden met aansluiting van utiliteitsgebouwen zoals 
+voorzieningen op het sportpark, een supermarkt, Living-In (Cosam), GGZ en twee 
+integrale kindcentra. De aanleg van het warmtenet wordt gekoppeld aan de 
+bouwfasering en de aanleg van andere kabels en leidingen. De huidige planning loopt 
+door tot circa 2035. De fasering start in Barrahûs en loopt via Ald Djip en Wetterstêd II 
+naar De Fellingen II, de overige delen van Barrahûs en uiteindelijk Boksumerhoeke. 
+Door de werkzaamheden af te stemmen met de aanleg van riool, elektriciteit, water en 
+telecom wordt gestreefd naar een zo efficiënt mogelijke uitvoering en het beperken 
+van overlast en dubbele graafwerkzaamheden. 
+ 
+Warmteopwekking 
+Het warmtenet is ontworpen als een middentemperatuurnet met een 
+aanvoertemperatuur van circa 65°C. Als primaire warmtebron wordt uitgegaan van een 
+combinatie van lucht-waterwarmtepompen en een warmte-koudeopslag (WKO). De 
+installatie bestaat in de huidige technische uitwerking uit zes warmtepompen van elk 
+1.250 kW, een buffer en een WKO met een capaciteit van circa 750 m³ per uur. 
+Bij milde buitentemperaturen benutten de warmtepompen de buitenlucht als bron. Bij 
+lagere temperaturen kan warmte uit de WKO worden ingezet. De e-boiler kan 
+aanvullend worden gebruikt voor pieksituaties, storingen of momenten waarop 
+elektriciteit ruim beschikbaar is. Het systeem wordt zo ingericht dat een toekomstige 
+koppeling met de geothermieontwikkeling in Leeuwarden mogelijk blijft. 
+Voor de definitieve warmtecentrale is een locatie beoogd op de kavel boven het 
+sportpark. Daarbij spelen onder meer de ligging in de geluidzone van het spoor en de 
+beperkte zichtbaarheid op deze locatie vanuit de woonwijk een rol. 
+ 
+Koeling 
+Voor woningen wordt geen collectieve koeling aangeboden. De extra investering in 
+distributieleidingen en woninginstallaties weegt onvoldoende op tegen de beperkte 
+jaarlijkse koude-vraag. Daarnaast betreft het de voorkeur om juist te koelen door 
+passieve maatregelen toe te passen zoals zonwering, overstekken of isolatiemateriaal 
+met een hoog accumulerend vermogen. Voor utiliteitsgebouwen rond de Redbadwei 
+wordt wel rekening gehouden met collectieve koeling, omdat daar een structurelere 
+koude-vraag aanwezig is en deze met een relatief compact transportnet kan worden 
+bediend. 
+--- p6 ---
+ 
+ 
+ 
+Blad 6 
+ 
+Tijdelijke voorziening en fasering 
+Totdat de definitieve warmtecentrale operationeel is, wordt een tijdelijke 
+warmtevoorziening ingezet zodat de eerste woningen tijdig warmte kunnen ontvangen. 
+In de huidige planning wordt uitgegaan van ingebruikname van de definitieve centrale 
+in 2031. 
+ 
+Organisatie & governance Warmtenet Middelsee 
+Het warmtenet Middelsee wordt in de ontwikkel- en realisatiefase vanuit de 
+gemeentelijke organisatie ontwikkeld. De gemeente heeft de afgelopen periode haar 
+kennis, expertise en capaciteit op dit terrein verder uitgebouwd, waardoor zij 
+dergelijke projecten in toenemende mate zelf kan ontwikkelen en realiseren. Daarmee 
+kan voor Middelsee een andere aanpak worden gekozen dan bij Heechterp, waar sprake 
+is van een 50/50-samenwerking met Bouwgroep Dijkstra Draisma. Voor Middelsee kan 
+de gemeente de ontwikkeling en realisatie daarom in-house uitvoeren. De intentie is 
+wel om het warmtenet zo snel als verantwoord onder te brengen in een aparte warmte 
+entiteit en de gerealiseerde activa aan deze entiteit over te dragen. Daarmee kan de 
+aanleg nu voortvarend worden gestart, zonder vooruit te lopen op de definitieve 
+organisatie- en eigendomsstructuur.  
+ 
+Op dit moment is het nog niet wenselijk om hiervoor een afzonderlijke entiteit op te 
+richten. Er lopen gesprekken met Ennatuurlijk over de mogelijke samenwerking en de 
+warmtemarkt is sterk in ontwikkeling en gereguleerd. Daarbij wordt landelijk ook 
+gewerkt aan de toekomstige inrichting van publieke warmtebedrijven en de mogelijke 
+rol van Energie Beheer Nederland (EBN). Het nu oprichten van een specifieke entiteit 
+kan daardoor leiden tot een constructie die op korte termijn alweer moet worden 
+aangepast. 
+ 
+Tegelijkertijd ligt uitvoering op termijn vanuit een verbonden partij zie hiervoor voor 
+de hand. Een dergelijke organisatie biedt meer wendbaarheid bij de ontwikkeling en 
+exploitatie van warmte-infrastructuur, maakt het mogelijk om ook andere 
+warmtenetten onder te brengen en sluit beter aan bij subsidieregelingen die niet altijd 
+toegankelijk of passend zijn voor gemeenten zelf. Ook kunnen investerings- en 
+financieringsvraagstukken daar integraal worden georganiseerd. 
+ 
+De principiële keuze die nu aan de raad wordt voorgelegd betreft daarom de 
+ontwikkeling en aanleg van een warmtenet in Middelsee. De definitieve keuze voor de 
+organisatievorm volgt separaat. In het komende jaar wordt, mede op basis van de 
+gesprekken met Ennatuurlijk en de landelijke ontwikkelingen, uitgewerkt in welke 
+verbonden partij het warmtenet uiteindelijk het beste kan worden ondergebracht en 
+welke financiële en juridische consequenties daaraan verbonden zijn. 
+ 
+Wettelijk kader 
+De huidige Warmtewet wordt vervangen door de Wet collectieve warmte (Wcw). Bij de 
+inrichting van het warmtenet Middelsee wordt vanaf de start zoveel mogelijk 
+geanticipeerd op de eisen die voor een warmtebedrijf met publiek meerderheidsbelang 
+gaan gelden.  
+ 
+Omdat het aantal aansluitingen gefaseerd groeit, kan het systeem in de eerste fase 
+mogelijk onder het regime voor kleine collectieve warmtesystemen vallen. Op termijn 
+wordt de grens van 1.500 aansluitingen naar verwachting overschreden en moet worden 
+voldaan aan de eisen voor een regulier warmtebedrijf, hierbij hoort bijvoorbeeld 
+toezicht door de ACM, die toezicht houdt op onder meer tarieven, leveringszekerheid 
+en duurzaamheid. 
+ 
+Aansturing, inkoop en toezicht 
+Zolang het warmtenet onderdeel is van de gemeentelijke organisatie, worden 
+verantwoordelijkheden belegd bij het college en gelden de bestaande mandaten en zal 
+--- p7 ---
+ 
+ 
+ 
+Blad 7 
+ 
+de aanleg worden uitgevoerd overeenkomstig landelijke wet- en regelgeving en de 
+gemeentelijke kaders. Voor inkopen en aanbestedingen gelden de nationale en 
+Europese aanbestedingsregels en het gemeentelijke inkoop- en aanbestedingsbeleid.  
+ 
+Participatie 
+Middelsee is een nieuwbouwontwikkeling. De participatie richt zich daarom in de 
+ontwikkelfase vooral op ontwikkelaars, woningcorporaties, toekomstige 
+utiliteitsafnemers en andere professionele stakeholders. Met deze partijen worden 
+technische eisen, aansluitmogelijkheden, planning en randvoorwaarden afgestemd. 
+ 
+5. Financiën 
+Businesscase 
+Om de financiële haalbaarheid van het project te kunnen beoordelen is een 
+businesscase opgesteld waarin de investeringen in de warmte-infrastructuur, de 
+warmtecentrale en overige voorzieningen in samenhang worden beschouwd met de 
+inkomsten uit aansluitbijdragen en warmtelevering, de productiekosten en de 
+exploitatiekosten.  
+ 
+Voor de businesscase is een looptijd van 34 jaar (2027 tot en met 2061) gehanteerd. 
+Alle bedragen die betrekking hebben op de businesscase zijn exclusief 21% btw, tenzij 
+anders aangegeven. De kosten voor de aanleg zijn geraamd op € 41,8 mln. Op basis van 
+de 1.647 woningen die momenteel voorzien worden binnen het ontwikkelgebied en een 
+kostendekkingsbijdrage (KDB) van € 12.000 per woning (prijspeil 2027) komt de totale 
+kostendekkingsbijdrage uit op € 22,4 mln. Daarnaast is tijdens de aanleg sprake van een 
+rentelast van € 2,9 mln. Na de realisatie van het warmtenet is sprake van een 
+boekwaarde van € 22,4 mln. Deze boekwaarde zal worden overgeheveld van het 
+grondbedrijf naar de gemeentelijke administratie en worden geactiveerd.     
+ 
+Vervolgens wordt het warmtenet geëxploiteerd. De kapitaallasten van het warmtenet 
+en de overige lasten van de exploitatie zullen dan gedekt moeten worden door de 
+inkomsten uit het vastrecht en de tarieven voor warmte die aan de bewoners in 
+rekening worden gebracht. Voorgesteld wordt om het jaarlijkse saldo van de exploitatie 
+te verrekenen met een in te stellen egalisatiereserve Warmtenet  Middelsee zodat de 
+exploitatie van het warmtenet geen invloed heeft op het gemeentelijk resultaat. 
+Daarnaast zal jaarlijks worden beoordeeld of het mogelijk danwel noodzakelijk is om 
+alvast delen van het warmtenet eerder in exploitatie te nemen. Bij de jaarlijkse 
+vaststelling van de hercalculaties zal dit aan uw gemeenteraad ter besluitvorming 
+worden voorgelegd. Om de betaalbaarheid van het warmtenet voor inwoners te 
+garanderen is in het project geen rekening gehouden met een marktconform 
+rendement. Op basis van de huidige uitgangspunten en gerekend met een 
+disconteringsvoet van 5% wordt een resultaat verwacht van € 7,7 mln. Dit bedrag is 
+benodigd om de risico’s op te kunnen vangen van een op voorhand risicovol project. 
+Mocht op termijn blijken dat de risico’s beheersbaar zijn, dan zou eventueel een deel 
+vrij kunnen vallen voor overige warmteprojecten.  
+ 
+De details zijn nader uitgewerkt in het bijgevoegde financieel overzicht. Door de hoge 
+mate van bedrijfsgevoelige informatie van derden in deze businesscase, wordt deze u 
+onder geheimhouding verstrekt.  
+ 
+Implicaties ontwikkeling binnen GREX De Zuidlanden 
+De investeringen in de warmte-infrastructuur, de warmtecentrale en overige 
+bijbehorende voorzieningen, evenals de door ontwikkelaars te betalen 
+kostendekkingsbijdragen, worden opgenomen in een deel-GREX Warmtenet Middelsee. 
+Voor de kostentoerekening wordt aangesloten bij de kostensoorten uit bijlage IV van 
+het Omgevingsbesluit. Hierin zijn distributienetwerken voor warmte, inclusief 
+bijbehorende werken en bouwwerken, expliciet als kostensoort opgenomen. Daarmee 
+kunnen de kosten van het warmtenet, voor zover deze samenhangen met de 
+--- p8 ---
+ 
+ 
+ 
+Blad 8 
+ 
+gebiedsontwikkeling, binnen de grondexploitatie worden verantwoord. Deze werkwijze 
+is voorgelegd aan onze accountant BakerTilly en akkoord bevonden. 
+ 
+Kosten voor eindgebruikers en bewoners 
+Het uitgangspunt is dat aansluiting op het warmtenet voor bewoners een gelijkwaardig 
+en betaalbaar alternatief vormt ten opzichte van een individuele warmteoplossing. 
+Leeuwarden wil daarbij werken met een uniform ‘Leeuwarder warmtetarief’. Als 
+uitgangspunt wordt gerekend met 20% korting op het vastrecht en 5% korting op het 
+variabele tarief per GJ ten opzichte van de ACM-maximumtarieven. 
+Voor 2026 zijn op basis van deze uitgangspunten indicatieve tarieven berekend. De 
+ACM-maximumtarieven worden jaarlijks aangepast. De bedragen moeten daarom 
+worden geactualiseerd op het moment dat het definitieve aanbod aan bewoners wordt 
+vastgesteld. 
+ 
+Soort kosten Tarief 2026 (incl. 21% btw) volgens ontwikkelplan 
+Vastrecht € 492,53 per jaar (80% van ACM 2026) 
+Tarief per GJ € 38,92 per GJ (95% van ACM 2026) 
+Huur afleverset € 178,51 per jaar (maximumtarief ACM 2026) 
+ 
+Betaalbaarheid en de kostendekkingsbijdrage 
+Een belangrijk uitgangspunt is dat het warmtenet zowel voor toekomstige bewoners als 
+voor ontwikkelaars een betaalbaar en aantrekkelijk alternatief vormt voor individuele 
+warmtevoorzieningen. Voor bewoners wordt voorgesteld om, net als in Heechterp, een 
+uniform Leeuwarder warmtetarief te hanteren met 20% korting op het vaste tarief en 
+5% korting op het variabele tarief ten opzichte van de maximale ACM-tarieven.  
+ 
+Dit is een bewuste keuze die gevolgen heeft voor de businesscase. Waar andere 
+nieuwbouwwarmtenetten doorgaans rekenen met de maximale ACM-tarieven, kiest 
+Leeuwarden voor lagere gebruikskosten voor bewoners. Hierdoor zijn de inkomsten uit 
+de toekomstige warmtelevering lager en is een hogere KDB van ontwikkelaars nodig. Bij 
+toepassing van de volledige ACM-tarieven zou de benodigde KDB volgens de huidige 
+berekeningen circa € 9.000 per woning bedragen. Met de voorgestelde lagere 
+bewonerstarieven bedraagt deze circa € 12.000 per woning. Dit is relatief hoog ten 
+opzichte van andere nieuwbouwwarmtenetten. Een KDB van circa € 10.000 wordt als 
+marktconform beschouwd en is meer in lijn met de investeringskosten van een 
+individuele warmtepomp. 
+ 
+Om zowel de betaalbaarheid voor bewoners te waarborgen als ontwikkelaars een 
+marktconform aanbod te kunnen doen, wordt voorgesteld om € 2.000 per woning vanuit 
+de Realisatiestimulans in te zetten ter verlaging van de KDB. Daarmee komt de bijdrage 
+voor ontwikkelaars in 2027 uit op circa € 10.000 per woning, terwijl de lagere 
+warmtetarieven voor bewoners behouden blijven. 
+ 
+De Realisatiestimulans is een rijksregeling waarmee gemeenten € 7.000 ontvangen per 
+betaalbare woning waarvan de bouw start in de periode 2025 tot en met 2029. De 
+middelen zijn vrij inzetbaar voor het ondersteunen van de gemeentelijke 
+woningbouwopgave. Bij de besluitvorming inzake de Begroting 2027 wordt voorgesteld 
+om de bijdragen die specifiek betrekking hebben op de grex De Zuidlanden/Middelsee 
+ten gunste te brengen van deze grex. De inzet hiervan voor het warmtenet Middelsee is 
+goed te verdedigen, omdat het warmtenet rechtstreeks bijdraagt aan het tijdig kunnen 
+starten van de woningbouw. Zonder warmtenet kan door netcongestie een deel van de 
+woningen naar verwachting niet binnen de looptijd van de regeling worden gestart, 
+waardoor ook aanspraak op de Realisatiestimulans verloren kan gaan. Door een deel 
+van deze middelen in te zetten voor de warmtevoorziening, worden de opbrengsten dus 
+benut voor een maatregel die de tijdige realisatie van de woningen mede mogelijk 
+maakt. Bovendien leidt het inzetten van de realisatiestimulans, in combinatie met het 
+‘Leeuwarder warmtetarief’ tot lage energielasten, wat bijdraagt aan betaalbaar 
+--- p9 ---
+ 
+ 
+ 
+Blad 9 
+ 
+wonen. Vanaf 2030 vervalt de Realisatiestimulans maar het Rijk heeft inmiddels 
+aangekondigd om deze regeling voort te zetten tot 2035. 
+ 
+6. Communicatie en participatie inwoners 
+Toekomstige bewoners worden gedurende de verdere ontwikkeling geïnformeerd via 
+onder meer de projectwebsite, nieuwsbrieven en andere digitale kanalen. De nadruk 
+ligt op tijdige en eenduidige informatie over planning, tarieven, technische 
+aansluitvoorwaarden en wat een warmteaansluiting voor de woning betekent. 
+Bij de verdere uitwerking worden de ervaringen uit Heechterp benut, met name waar 
+het gaat om transparantie over kosten, duidelijke communicatie en het vroegtijdig 
+afstemmen van technische randvoorwaarden met gebouweigenaren en ontwikkelaars. 
+Tijdens de exploitatieperiode blijft het warmtebedrijf met zijn afnemers 
+communiceren over onder andere tarieven en nieuwe ontwikkelingen. 
+ 
+7. Risico’s en beheersmaatregelen 
+Voor het project is een risicodossier opgesteld waarin de belangrijkste risico’s voor de 
+voorbereiding, realisatie en exploitatie van het warmtenet zijn beoordeeld. Een nadere 
+uitwerking hiervan is opgenomen in het ontwikkelplan. 
+ 
+De belangrijkste risico’s hebben betrekking op de voortgang van de 
+gebiedsontwikkeling, wijzigingen in wet- en regelgeving, technische en organisatorische 
+afstemming en onzekerheden in de toekomstige exploitatie. Deze risico’s kunnen 
+gevolgen hebben voor de planning, investeringskosten en financiële resultaten van het 
+warmtebedrijf. 
+ 
+Om deze risico’s te beheersen, wordt ingezet op een gefaseerde realisatie, nauwe 
+samenwerking met betrokken partijen en periodieke actualisatie van de businesscase. 
+Daarnaast zijn de volgende financiële beheersmaatregelen voorzien: 
+ 
+Conservatieve uitgangspunten 
+In de businesscase is rekening gehouden met een voorzichtige planning van de 
+gebiedsontwikkeling en het aansluittempo. 
+ 
+Bijstelling exploitatiebijdragen 
+De mogelijkheid om exploitatiebijdragen aan te passen wanneer ontwikkelingen 
+daartoe aanleiding geven. 
+ 
+Risicoreserve grondbedrijf  
+Financiële risico’s worden betrokken bij de jaarlijkse Monte Carlo-analyse, waarmee de 
+benodigde risicoreserve wordt bepaald, conform de werkwijze bij de overige 
+grondexploitaties. 
+ 
+Externe validatie 
+Naast de toets bij huisaccountant Baker Tilly zijn voor de uitgangspunten in de 
+businesscase verschillende externe partijen betrokken om deze te toetsen. De 
+uitgangspunten zijn naast validatie van bestaande offertes getoetst met 
+uitvoeringspartijen, leveranciers en externe experts op specifieke onderwerpen zoals 
+energieprijzen, leidingkosten en de warmtepompen.  
+ 
+Vervolg 
+Na besluitvorming wordt het ontwerp verder technisch uitgewerkt en worden de 
+benodigde aanbestedingen en vergunningprocedures voorbereid. Tegelijkertijd worden 
+aansluitafspraken met ontwikkelaars, woningcorporaties en utiliteitsafnemers 
+geconcretiseerd. De ontwikkeling blijft gekoppeld aan de bouwfasering in Middelsee. 
+  
+--- p10 ---
+ 
+ 
+ 
+Blad 10 
+ 
+Leeuwarden, 3 november 2026, 
+ 
+ 
+ 
+burgemeester en wethouders van Leeuwarden, 
+ 
+ 
+ 
+burgemeester. 
+{{Signer2}} 
+ 
+ 
+ 
+ 
+ 
+ 
+secretaris. 
+{{Signer1}} 
+ 
+ 
+ 
+ 
+ 
+ 
+*Dit document is rechtsgeldig digitaal ondertekend. 
+ 
+ 
+ 
+ 

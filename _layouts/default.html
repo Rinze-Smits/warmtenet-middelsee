@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% if page.title and page.title != site.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+<meta name="description" content="{{ site.description }}">
+<style>
+:root{--bg:#fcfcfb;--ink:#1a1a19;--ink2:#52514e;--line:#e6e5e0;--tint:#f4f3ee;--link:#1f62b5;--warn:#fbf1e3}
+@media (prefers-color-scheme:dark){:root{--bg:#1a1a19;--ink:#f0efec;--ink2:#c3c2b7;--line:#3a3a37;--tint:#262624;--link:#7fb2ef;--warn:#33291a}}
+*{box-sizing:border-box}html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.6 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+main{max-width:780px;margin:0 auto;padding:32px 16px 64px}
+h1{font-size:2rem;line-height:1.2;margin:0 0 .5em}h2{font-size:1.45rem;margin:2em 0 .6em;padding-top:.6em;border-top:1px solid var(--line)}h3{font-size:1.12rem;margin:1.6em 0 .4em}
+a{color:var(--link)}li{margin:.45em 0}
+blockquote{margin:1.2em 0;padding:.7em 1em;background:var(--warn);border-radius:6px}blockquote p{margin:.2em 0}
+table{display:block;width:100%;overflow-x:auto;border-collapse:collapse;font-size:.92rem;margin:1.2em 0}
+th,td{padding:.45em .7em;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}th{background:var(--tint)}
+img{max-width:100%;height:auto;display:block;margin:1.2em 0;border-radius:6px;background:#fcfcfb}
+pre{overflow-x:auto;background:var(--tint);padding:.8em;border-radius:6px}code{font-size:.88em}
+.mermaid{background:#fcfcfb;border-radius:6px;padding:12px;margin:1.2em 0;overflow-x:auto;text-align:center}
+.mermaid svg{max-width:100%;height:auto}
+</style>
+</head>
+<body>
+<main>
+{{ content }}
+</main>
+<script type="module">
+import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10.9.1/dist/mermaid.esm.min.mjs";
+document.querySelectorAll("div.language-mermaid, pre > code.language-mermaid").forEach(function (el) {
+  var host = el.tagName === "CODE" ? el.parentElement : el;
+  var d = document.createElement("div");
+  d.className = "mermaid";
+  d.textContent = el.textContent;
+  host.replaceWith(d);
+});
+mermaid.initialize({ startOnLoad: false, theme: "neutral", securityLevel: "strict" });
+mermaid.run();
+</script>
+</body>
+</html>

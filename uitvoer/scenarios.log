@@ -1,0 +1,175 @@
+A lucht 2017 piek 4.02, 2.5s
+A lucht + PV 2010 piek 4.72, 2.6s
+A lucht, slim laden 2017 piek 2.78, 2.6s
+A lucht 2010 piek 4.72, 2.8s
+A lucht, slim laden 2010 piek 3.48, 0.4s
+A lucht 2012 piek 4.91, 2.9s
+A lucht, slim laden 2012 piek 3.66, 2.8s
+A lucht + PV 2012 piek 4.91, 2.9s
+A lucht + PV 2017 piek 4.02, 3.0s
+A bodem 2017 piek 3.45, 0.4s
+A bodem 2012 piek 3.69, 0.4s
+A lucht, slim laden + boilers flex 2012 piek 3.20, 0.7s
+A lucht, slim laden + boilers flex 2017 piek 2.32, 0.8s
+A lucht, slim laden + boilers flex 2010 piek 3.02, 0.7s
+A bodem 2010 piek 3.61, 0.4s
+A bodem + PV 2017 piek 3.45, 0.4s
+A bodem + PV 2012 piek 3.69, 0.4s
+A bodem + PV 2010 piek 3.61, 0.4s
+A bodem, slim laden 2017 piek 2.21, 0.4s
+A bodem, slim laden 2012 piek 2.45, 0.4s
+A bodem, slim laden 2010 piek 2.37, 0.4s
+A lucht, slim laden + boilers + batterij 5 MWh 2012 piek 2.75, 1.6s
+A bodem, slim laden + boilers flex 2017 piek 1.87, 0.8s
+A lucht, slim laden + boilers + batterij 5 MWh 2010 piek 2.54, 1.7s
+C net 65 (CO2-COP) 2017 piek 2.43, 0.6s
+A bodem, slim laden + boilers flex 2012 piek 2.10, 0.8s
+C net 65 (CO2-COP) 2012 piek 2.50, 0.6s
+A bodem, slim laden + boilers flex 2010 piek 2.02, 0.8s
+A lucht, slim laden + boilers + batterij 5 MWh 2017 piek 2.14, 2.1s
+C net 65 (CO2-COP) 2010 piek 2.45, 0.6s
+C net 65 (Carnot-COP) 2017 piek 2.43, 0.6s
+C net 65 (Carnot-COP) 2010 piek 2.58, 0.6s
+C net 65 (Carnot-COP) 2012 piek 2.66, 0.7s
+C net 65, slim laden 2017 piek 2.05, 0.7s
+C net 65, slim laden 2012 piek 2.31, 0.7s
+C net 65, slim laden 2010 piek 2.22, 0.7s
+C net 65 + PV 2017 piek 2.43, 0.7s
+C net 65 + PV 2012 piek 2.47, 0.7s
+C net 65 + PV 2010 piek 2.44, 0.7s
+C net 65 + PV (Carnot-COP) 2012 piek 2.56, 0.7s
+C net 65 + PV (Carnot-COP) 2017 piek 2.43, 0.8s
+C net 65 + PV (Carnot-COP) 2010 piek 2.52, 0.8s
+E net 65 + PV + buffer 100 + eboiler 4 2017 piek 2.43, 0.8s
+E net 65 + PV + buffer 100 + eboiler 4 2012 piek 2.44, 0.9s
+E net 65 + PV + buffer 100 + eboiler 4 2010 piek 2.44, 0.8s
+F net 65 + PV + buffer 100 + HTO 3 GWh 2017 piek 2.43, 5.6s
+F net 65 + PV + buffer 100 + HTO 3 GWh 2010 piek 2.44, 6.1s
+F net 65 + PV + buffer 100 + HTO 3 GWh 2012 piek 2.44, 6.3s
+F net 65 + PV + buffer 100 + HTO 3 GWh, slim laden 2012 piek 1.26, 9.8s
+F net 65 + PV + buffer 100 + HTO 3 GWh, slim laden 2017 piek 1.26, 10.5s
+F HTO, rendement 40 % (eerste jaren) 2012 piek 2.44, 4.9s
+G LT 50 + boosters 2017 piek 2.49, 0.7s
+G LT 50 + boosters 2012 piek 2.50, 0.6s
+F HTO, rendement 40 % (eerste jaren) 2017 piek 2.43, 5.6s
+G LT 50 + boosters 2010 piek 2.50, 0.6s
+G LT 50 + boosters + PV 2017 piek 2.49, 0.6s
+G LT 50 + boosters + PV 2012 piek 2.50, 0.7s
+G LT 50 + boosters + PV 2010 piek 2.50, 0.6s
+G LT 50 + boosters, slim laden 2017 piek 1.95, 0.9s
+G LT 50 + boosters, slim laden 2012 piek 2.19, 0.8s
+G LT 50 + boosters, slim laden 2010 piek 2.10, 0.8s
+F net 65 + PV + buffer 100 + HTO 3 GWh, slim laden 2010 piek 1.52, 14.1s
+F HTO, rendement 40 % (eerste jaren) 2010 piek 2.44, 6.0s
+C net 65 + wijkbatterij 5 MWh/2,5 MW 2012 piek 2.34, 3.0s
+C net 65 + wijkbatterij 5 MWh/2,5 MW 2010 piek 2.25, 3.0s
+C net 65 + wijkbatterij 5 MWh/2,5 MW 2017 piek 2.07, 3.4s
+C net 65 buffer 5 + basalt 50 MWh/3 MW 2017 piek 2.43, 1.4s
+C net 65 buffer 5 + basalt 50 MWh/3 MW 2012 piek 2.53, 1.4s
+C net 65 + PV, terug max 5 MW 2017 piek 2.43, 0.6s
+C net 65 buffer 5 + basalt 50 MWh/3 MW 2010 piek 2.44, 1.3s
+C net 65 + PV, terug max 5 MW 2012 piek 2.47, 0.6s
+C net 65 + PV, terug max 5 MW 2010 piek 2.44, 0.7s
+C net 65 + PV, terug max 3 MW 2017 piek 2.43, 0.6s
+C net 65 + PV, terug max 3 MW 2012 piek 2.47, 0.7s
+C net 65 + PV, terug max 3 MW 2010 piek 2.44, 0.6s
+C net 65, slim laden + wijkbatterij 5 MWh 2017 piek 1.99, 6.3s
+C net 65 + PV, terug 0 2017 piek 2.43, 0.5s
+C net 65 + PV, terug 0 2012 piek 2.47, 0.5s
+C net 65, slim laden + wijkbatterij 5 MWh 2012 piek 2.26, 5.0s
+C net 65 + PV, terug 0 2010 piek 2.44, 0.5s
+C net 65, slim laden + wijkbatterij 5 MWh 2010 piek 2.13, 5.1s
+A lucht + PV, terug max 5 MW 2017 piek 4.02, 0.4s
+A lucht + PV, terug max 5 MW 2012 piek 4.91, 0.4s
+A lucht + PV, terug max 5 MW 2010 piek 4.72, 0.3s
+A lucht + PV, terug max 3 MW 2017 piek 4.02, 0.3s
+A lucht + PV, terug max 3 MW 2012 piek 4.91, 0.4s
+A lucht + PV, terug max 3 MW 2010 piek 4.72, 0.4s
+buffer 0 MWh 2017 piek 3.81, 0.3s
+buffer 0 MWh 2012 piek 4.12, 0.3s
+buffer 0 MWh 2010 piek 4.04, 0.3s
+buffer 0 MWh, slim laden 2017 piek 2.57, 0.4s
+buffer 0 MWh, slim laden 2012 piek 2.87, 0.3s
+buffer 0 MWh, slim laden 2010 piek 2.80, 0.4s
+buffer 2 MWh 2017 piek 3.37, 0.4s
+buffer 2 MWh 2012 piek 3.65, 0.5s
+buffer 2 MWh 2010 piek 3.59, 0.4s
+buffer 2 MWh, slim laden 2017 piek 2.25, 0.7s
+buffer 2 MWh, slim laden 2012 piek 2.54, 0.7s
+buffer 5 MWh 2017 piek 3.11, 0.5s
+buffer 2 MWh, slim laden 2010 piek 2.47, 0.7s
+F HTO + PV, terug max 3 MW 2017 piek 2.43, 4.8s
+buffer 5 MWh 2012 piek 3.38, 0.6s
+buffer 5 MWh 2010 piek 3.32, 0.6s
+F HTO + PV, terug max 3 MW 2010 piek 2.44, 5.0s
+F HTO + PV, terug max 3 MW 2012 piek 2.44, 5.2s
+buffer 5 MWh, slim laden 2017 piek 2.11, 0.7s
+buffer 5 MWh, slim laden 2012 piek 2.37, 0.6s
+buffer 5 MWh, slim laden 2010 piek 2.32, 0.6s
+buffer 10 MWh 2017 piek 2.76, 0.6s
+buffer 10 MWh 2012 piek 3.02, 0.6s
+buffer 10 MWh 2010 piek 2.97, 0.7s
+buffer 10 MWh, slim laden 2017 piek 2.09, 0.6s
+F HTO 3 GWh zonder PV, slim laden 2012 piek 1.59, 26.6s
+buffer 10 MWh, slim laden 2012 piek 2.34, 0.6s
+buffer 15 MWh 2017 piek 2.47, 0.5s
+buffer 10 MWh, slim laden 2010 piek 2.29, 0.6s
+buffer 15 MWh 2012 piek 2.74, 0.6s
+F HTO 3 GWh zonder PV, slim laden 2017 piek 1.55, 27.4s
+buffer 15 MWh 2010 piek 2.69, 0.7s
+buffer 15 MWh, slim laden 2017 piek 2.07, 0.7s
+buffer 15 MWh, slim laden 2012 piek 2.32, 0.7s
+buffer 25 MWh 2017 piek 2.43, 0.7s
+buffer 15 MWh, slim laden 2010 piek 2.25, 0.7s
+buffer 25 MWh 2012 piek 2.44, 0.6s
+buffer 25 MWh 2010 piek 2.44, 0.6s
+buffer 25 MWh, slim laden 2017 piek 2.04, 0.7s
+buffer 25 MWh, slim laden 2012 piek 2.30, 0.7s
+buffer 25 MWh, slim laden 2010 piek 2.19, 0.7s
+buffer 30 MWh 2017 piek 2.43, 0.7s
+buffer 30 MWh 2012 piek 2.44, 0.7s
+buffer 30 MWh 2010 piek 2.44, 0.7s
+buffer 30 MWh, slim laden 2017 piek 2.02, 0.7s
+buffer 30 MWh, slim laden 2012 piek 2.28, 0.8s
+buffer 30 MWh, slim laden 2010 piek 2.16, 0.7s
+buffer 50 MWh 2010 piek 2.44, 0.8s
+buffer 50 MWh 2012 piek 2.44, 0.9s
+buffer 50 MWh 2017 piek 2.43, 0.9s
+buffer 50 MWh, slim laden 2017 piek 1.97, 1.0s
+buffer 50 MWh, slim laden 2012 piek 2.24, 0.9s
+F HTO 3 GWh zonder PV, slim laden 2010 piek 1.80, 24.7s
+buffer 50 MWh, slim laden 2010 piek 2.11, 1.1s
+buffer 100 MWh 2017 piek 2.43, 1.1s
+buffer 100 MWh 2010 piek 2.44, 1.2s
+buffer 100 MWh 2012 piek 2.44, 1.3s
+verlies 15 % 2017 piek 2.43, 0.7s
+buffer 100 MWh, slim laden 2017 piek 1.93, 1.3s
+verlies 15 % 2010 piek 2.44, 0.6s
+verlies 15 % 2012 piek 2.44, 0.6s
+buffer 100 MWh, slim laden 2012 piek 2.18, 1.2s
+verlies 15 % (Carnot) 2012 piek 2.58, 0.7s
+verlies 15 % (Carnot) 2017 piek 2.43, 0.8s
+verlies 15 % (Carnot) 2010 piek 2.49, 0.7s
+verlies 20 % 2017 piek 2.43, 0.6s
+buffer 100 MWh, slim laden 2010 piek 2.07, 1.6s
+verlies 20 % 2012 piek 2.47, 0.6s
+verlies 20 % 2010 piek 2.44, 0.6s
+verlies 20 % (Carnot) 2017 piek 2.43, 0.8s
+verlies 30 % 2017 piek 2.43, 0.6s
+verlies 30 % 2012 piek 2.54, 0.6s
+verlies 30 % 2010 piek 2.50, 0.6s
+verlies 30 % (Carnot) 2017 piek 2.43, 0.6s
+verlies 20 % (Carnot) 2010 piek 2.53, 0.8s
+verlies 20 % (Carnot) 2012 piek 2.62, 0.8s
+verlies 30 % (Carnot) 2012 piek 2.70, 0.6s
+verlies 30 % (Carnot) 2010 piek 2.63, 0.7s
+eboiler 0 MW 2017 piek 2.43, 0.6s
+eboiler 0 MW 2010 piek 2.45, 0.5s
+eboiler 0 MW 2012 piek 2.50, 0.6s
+eboiler 1 MW 2017 piek 2.43, 0.6s
+eboiler 4 MW 2017 piek 2.43, 0.6s
+eboiler 1 MW 2012 piek 2.50, 0.7s
+eboiler 1 MW 2010 piek 2.45, 0.7s
+eboiler 4 MW 2012 piek 2.50, 0.5s
+eboiler 4 MW 2010 piek 2.45, 0.5s
+klaar 174

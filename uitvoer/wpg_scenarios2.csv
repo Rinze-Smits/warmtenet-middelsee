@@ -1,0 +1,53 @@
+variant,schaal,piek,stroom_warmte,eboiler
+Lucht-water,tno,4.69,4.258,0.0
+Lucht-water,12gj,4.672,4.232,0.0
+Lucht-water + slim + boilers,tno,2.983,4.207,0.0
+Lucht-water + slim + boilers,12gj,2.965,4.181,0.0
+Lucht-water + slim + boilers + batterij,tno,2.459,4.21,0.0
+Lucht-water + slim + boilers + batterij,12gj,2.446,4.183,0.0
+Bodem,tno,4.004,3.367,0.0
+Bodem,12gj,3.934,3.262,0.0
+Bodem + slim + boilers,tno,2.418,3.367,0.0
+Bodem + slim + boilers,12gj,2.348,3.262,0.0
+"Net 4 kW, buffer 5",tno,5.226,6.162,153.849
+"Net 4 kW, buffer 5",12gj,3.945,5.057,0.592
+"Net 4 kW, buffer 10",tno,4.613,6.1,89.429
+"Net 4 kW, buffer 10",12gj,3.567,5.041,0.465
+"Net 4 kW, buffer 20",tno,4.074,6.049,36.764
+"Net 4 kW, buffer 20",12gj,3.031,5.032,0.049
+"Net 4 kW, buffer 30",tno,3.647,6.03,12.195
+"Net 4 kW, buffer 30",12gj,2.756,5.032,0.0
+"Net 4 kW, buffer 50",tno,3.003,6.041,22.977
+"Net 4 kW, buffer 50",12gj,2.495,5.036,0.22
+"Net 4 kW + slim, buffer 20",tno,3.454,6.029,9.083
+"Net 4 kW + slim, buffer 20",12gj,2.559,5.03,0.0
+"Net 4 kW + slim, buffer 5",tno,4.751,6.162,153.725
+"Net 4 kW + slim, buffer 5",12gj,2.911,5.056,0.0
+"Net 6 kW, buffer 5",tno,,,
+"Net 6 kW, buffer 5",12gj,3.879,5.057,0.504
+"Net 6 kW, buffer 10",tno,4.641,6.108,86.439
+"Net 6 kW, buffer 10",12gj,3.523,5.041,0.0
+"Net 6 kW, buffer 20",tno,4.085,6.057,33.576
+"Net 6 kW, buffer 20",12gj,2.971,5.032,0.0
+"Net 6 kW, buffer 30",tno,3.658,6.039,10.893
+"Net 6 kW, buffer 30",12gj,2.755,5.032,0.0
+"Net 6 kW, buffer 50",tno,3.01,6.052,24.639
+"Net 6 kW, buffer 50",12gj,2.496,5.036,0.236
+"Net 6 kW + slim, buffer 20",tno,3.487,6.039,9.198
+"Net 6 kW + slim, buffer 20",12gj,2.56,5.03,0.0
+"Net 6 kW + slim, buffer 5",tno,,,
+"Net 6 kW + slim, buffer 5",12gj,2.894,5.056,0.003
+"Net 10 kW, buffer 5",tno,,,
+"Net 10 kW, buffer 5",12gj,3.862,5.056,0.251
+"Net 10 kW, buffer 10",tno,4.607,6.111,85.1
+"Net 10 kW, buffer 10",12gj,3.507,5.041,0.0
+"Net 10 kW, buffer 20",tno,4.063,6.061,33.279
+"Net 10 kW, buffer 20",12gj,2.951,5.032,0.104
+"Net 10 kW, buffer 30",tno,3.636,6.044,11.04
+"Net 10 kW, buffer 30",12gj,2.745,5.032,0.0
+"Net 10 kW, buffer 50",tno,3.014,6.057,25.446
+"Net 10 kW, buffer 50",12gj,2.497,5.036,0.244
+"Net 10 kW + slim, buffer 20",tno,3.448,6.043,8.289
+"Net 10 kW + slim, buffer 20",12gj,2.549,5.03,0.0
+"Net 10 kW + slim, buffer 5",tno,,,
+"Net 10 kW + slim, buffer 5",12gj,2.883,5.056,0.0

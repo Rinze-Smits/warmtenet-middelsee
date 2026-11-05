@@ -1,0 +1,34 @@
+schaal,variant,piek,stroom_warmte,D_max,eboiler,q_max
+tno,Lucht-water,4.69,4.258,5.502,0.0,1.047
+tno,Lucht-water + slim + boilers,2.983,4.207,5.502,0.0,7.332
+tno,Lucht-water + slim + boilers + batterij,2.459,4.21,5.502,0.0,7.25
+tno,Bodem,4.004,3.367,6.896,0.0,1.047
+tno,Bodem + slim + boilers,2.418,3.367,6.896,0.0,1.355
+tno,"Warmtenet, buffer 0",,,,,
+tno,"Warmtenet, buffer 5",,,,,
+tno,"Warmtenet, buffer 10",4.607,6.111,11.94,85.1,7.5
+tno,"Warmtenet, buffer 20",4.063,6.061,11.94,33.279,7.5
+tno,"Warmtenet, buffer 30",3.636,6.044,11.94,11.04,7.5
+tno,"Warmtenet, buffer 50",3.014,6.057,11.94,25.446,7.5
+tno,"Warmtenet + slim, buffer 5",,,,,
+tno,"Warmtenet + slim, buffer 20",3.448,6.043,11.94,8.289,7.5
+12gj,Lucht-water,4.672,4.232,5.45,0.0,1.047
+12gj,Lucht-water + slim + boilers,2.965,4.181,5.45,0.0,7.332
+12gj,Lucht-water + slim + boilers + batterij,2.446,4.183,5.45,0.0,7.242
+12gj,Bodem,3.934,3.262,6.576,0.0,1.047
+12gj,Bodem + slim + boilers,2.348,3.262,6.576,0.0,1.347
+12gj,"Warmtenet, buffer 0",,,,,
+12gj,"Warmtenet, buffer 5",3.862,5.056,9.212,0.251,7.5
+12gj,"Warmtenet, buffer 10",3.507,5.041,9.212,0.0,7.5
+12gj,"Warmtenet, buffer 20",2.951,5.032,9.212,0.104,7.5
+12gj,"Warmtenet, buffer 30",2.745,5.032,9.212,0.0,7.5
+12gj,"Warmtenet, buffer 50",2.497,5.036,9.212,0.244,7.5
+12gj,"Warmtenet + slim, buffer 5",2.883,5.056,9.212,0.0,7.5
+12gj,"Warmtenet + slim, buffer 20",2.549,5.03,9.212,0.0,7.5
+eigen profiel,Lucht-water,4.092,4.183,4.856,0.0,1.047
+eigen profiel,Lucht-water + slim + boilers,2.493,4.139,4.856,0.0,7.019
+eigen profiel,Lucht-water + slim + boilers + batterij,2.237,4.141,4.856,0.0,6.948
+eigen profiel,Bodem,3.487,3.262,4.856,0.0,1.047
+eigen profiel,Bodem + slim + boilers,1.901,3.262,4.856,0.0,1.344
+eigen profiel,"Warmtenet, buffer 20",2.433,5.051,4.856,0.0,7.5
+eigen profiel,"Warmtenet + slim, buffer 20",2.144,5.048,4.856,0.0,7.5

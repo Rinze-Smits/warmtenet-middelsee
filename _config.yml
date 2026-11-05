@@ -1,0 +1,6 @@
+title: Warmtenet Middelsee
+description: Onafhankelijke doorrekening van het raadsvoorstel warmtenet Middelsee (Leeuwarden)
+markdown: kramdown
+kramdown:
+  input: GFM
+exclude: [data, model, uitvoer, _pycache_, .venv, .gitignore]

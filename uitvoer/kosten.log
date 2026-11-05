@@ -1,0 +1,60 @@
+                                scenario  piek  afname_GWh  warmte_el_GWh  gem_prijs_warmte  energie_MEUR  kapitaal_opex_MEUR_3  totaal_3  delta_3  delta_5  warmte_EUR_GJ_3  warmte_EUR_GJ_5  co2_warmte_t  co2_warmte_kg_GJ  co2_warmte_kg_GJ_014  co2_factor_gem
+                                 A lucht  4.00       10.89           3.29            128.08          1.35                  1.89      3.23     0.00     0.00            57.55            63.85        832.55             20.74                 11.48            0.25
+                     A lucht, slim laden  2.76       10.89           3.29            128.08          1.23                  1.98      3.21    -0.03    -0.02            59.76            66.16        832.55             20.74                 11.48            0.25
+                 A lucht, slim + boilers  2.31       10.87           3.27            109.98          1.18                  2.01      3.19    -0.05    -0.04            59.11            65.56        761.65             18.97                 11.41            0.23
+A lucht, slim + boilers + batterij 5 MWh  2.00       11.22           3.26            113.95          1.09                  2.18      3.27     0.04     0.07            63.70            70.70        764.83             19.05                 11.37            0.23
+                           A bodem (15k)  3.30       10.37           2.77            124.99          1.27                  1.80      3.07    -0.17    -0.07            53.41            62.17        670.87             16.71                  9.66            0.24
+                           A bodem (20k)  3.30       10.37           2.77            124.99          1.27                  2.30      3.57     0.34     0.55            65.91            77.48        670.87             16.71                  9.66            0.24
+                           A bodem (25k)  3.30       10.37           2.77            124.99          1.27                  2.80      4.07     0.84     1.16            78.41            92.80        670.87             16.71                  9.66            0.24
+           A bodem (20k), slim + boilers  1.74       10.40           2.80            104.81          1.12                  2.42      3.54     0.31     0.53            67.72            79.44        613.33             15.28                  9.77            0.22
+                     C net 65, buffer 20  2.42       11.76           4.16             89.40          1.30                  2.84      4.13     0.90     1.24            80.13            94.94        881.20             21.95                 14.52            0.21
+                      C net 65, buffer 5  3.01       11.76           4.16            107.33          1.37                  2.83      4.20     0.97     1.31            81.64            96.40        962.80             23.99                 14.51            0.23
+         C net 65, slim laden, buffer 20  1.92       11.75           4.15             97.18          1.24                  2.92      4.16     0.93     1.27            83.11            98.02        883.48             22.01                 14.48            0.21
+          C net 65, slim laden, buffer 5  2.00       11.76           4.16            109.35          1.28                  2.92      4.20     0.96     1.31            84.07            98.92        963.04             23.99                 14.50            0.23
+               C net 65 + batterij 5 MWh  1.94       11.96           4.15             97.31          1.22                  3.01      4.23     1.00     1.36            85.20           100.56        909.16             22.65                 14.48            0.22
+      C net 65, buffer 5 + basalt 50 MWh  2.42       12.62           5.02             88.91          1.37                  2.96      4.33     1.10     1.47            85.22           100.64       1047.30             26.09                 17.50            0.21
+                      G LT 50 + boosters  2.48       11.15           3.55             91.36          1.25                  3.37      4.62     1.38     1.80            92.17           108.78        763.67             19.03                 12.39            0.21
+                     G LT 50, slim laden  1.83       11.14           3.54             99.75          1.18                  3.46      4.64     1.41     1.83            95.09           111.80        768.43             19.14                 12.35            0.22
+                 F HTO 3 GWh, slim laden  1.58       12.02           4.42             95.91          1.27                  3.58      4.85     1.62     2.03            99.91           116.56        855.83             21.32                 15.42            0.19
+                           A lucht + zon  4.00        7.06           3.29            128.08          0.37                  3.26      3.62     0.39     0.64            91.66           104.32        832.55             20.74                 11.48            0.25
+                     A bodem (20k) + zon  3.30        6.58           2.77            124.99          0.29                  3.67      3.96     0.73     1.19           100.01           117.96        670.87             16.71                  9.66            0.24
+                          C net 65 + zon  2.42        6.61           4.18             90.44          0.30                  4.20      4.51     1.27     1.87           114.32           135.50        865.29             21.56                 14.59            0.21
+               A lucht + zon dak 9,5 MWp  4.00        7.51           3.29            128.08          0.71                  2.54      3.25     0.01     0.13            73.79            83.12        832.55             20.74                 11.48            0.25
+              C net 65 + zon dak 9,5 MWp  2.42        7.18           4.18             90.17          0.64                  3.49      4.13     0.90     1.36            96.43           114.27        868.02             21.62                 14.59            0.21
+    F HTO + buffer 100 + zon, slim laden  1.19        5.63           5.46             65.90          0.19                  4.99      5.18     1.94     2.63           134.11           157.42        805.33             20.06                 19.05            0.15
+                                scenario  delta_3  delta_5  gem_prijs_warmte  co2_warmte_kg_GJ
+                                 A lucht     0.00     0.00            103.77             17.67
+                     A lucht, slim laden    -0.02    -0.01            103.77             17.67
+                 A lucht, slim + boilers    -0.04    -0.03             85.29             15.56
+A lucht, slim + boilers + batterij 5 MWh     0.01     0.04             88.06             15.69
+                           A bodem (15k)    -0.15    -0.05            101.28             14.47
+                           A bodem (20k)     0.36     0.57            101.28             14.47
+                           A bodem (25k)     0.86     1.18            101.28             14.47
+           A bodem (20k), slim + boilers     0.33     0.55             79.70             12.59
+                     C net 65, buffer 20     0.90     1.24             68.06             17.55
+                      C net 65, buffer 5     0.95     1.29             85.02             20.22
+         C net 65, slim laden, buffer 20     0.91     1.26             72.72             17.77
+          C net 65, slim laden, buffer 5     0.95     1.30             86.47             20.29
+               C net 65 + batterij 5 MWh     0.96     1.32             73.86             18.21
+      C net 65, buffer 5 + basalt 50 MWh     1.08     1.45             66.15             21.06
+                      G LT 50 + boosters     1.40     1.81             70.63             15.31
+                     G LT 50, slim laden     1.41     1.83             75.62             15.50
+                 F HTO 3 GWh, slim laden     1.60     2.01             72.43             17.46
+                           A lucht + zon     0.76     1.01            103.77             17.67
+                     A bodem (20k) + zon     1.11     1.58            101.28             14.47
+                          C net 65 + zon     1.64     2.24             69.41             17.37
+               A lucht + zon dak 9,5 MWp     0.25     0.37            103.77             17.67
+              C net 65 + zon dak 9,5 MWp     1.14     1.60             69.11             17.38
+    F HTO + buffer 100 + zon, slim laden     2.29     2.97             41.57             16.31
+                                                                                                          stap  warmtenet  warmtepomp  verschil_net_min_wp
+                                   Brochure, zoals gepubliceerd (vastrecht 70 %, KDB niet meegeteld, SCOP 3,7)     1421.0      1489.0                -68.0
+                                                                  Stap 1: vastrecht 80 % volgens raadsvoorstel     1483.0      1489.0                 -6.0
+Stap 2: KDB 10.000 ex btw (raadsvoorstel, na Realisatiestimulans) lineair over 30 jaar, warmtepomp ongewijzigd     1887.0      1489.0                398.0
+                                       Stap 2b: idem, KDB lineair over 15 jaar (zelfde termijn als warmtepomp)     2290.0      1489.0                801.0
+      Stap 2: KDB 12.000 ex btw (raadsvoorstel, zonder stimulans) lineair over 30 jaar, warmtepomp ongewijzigd     1967.0      1489.0                478.0
+                                       Stap 2b: idem, KDB lineair over 15 jaar (zelfde termijn als warmtepomp)     2451.0      1489.0                962.0
+                                                               Stap 2c: KDB brochure 15.000 incl. btw, 30 jaar     1983.0      1489.0                494.0
+                                                               Stap 2d: KDB brochure 18.755 incl. btw, 30 jaar     2108.0      1489.0                619.0
+                                                        Stap 3: KDB 10.000 ex btw/30 jaar, warmtepomp SCOP 3,0     1887.0      1583.0                304.0
+                                                      Stap 3b: idem, warmtepomp SCOP 2,7 (lucht, koud profiel)     1887.0      1639.0                248.0
+                                 Stap 4: beide inclusief 4 % rente (KDB 30 jaar, warmtepomp 15 jaar), SCOP 3,0     2183.0      1909.0                274.0

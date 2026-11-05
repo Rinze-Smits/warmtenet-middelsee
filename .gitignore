@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+# rapporten van derden: alleen links, zie README
+data/docs/
+# interne overdracht en tussenproducten
+bronnen/overdracht_warmtenet_middelsee.md
+bronnen/brochure_png/
+# KNMI staat als zip in de repo; uitpakken met: cd data/knmi && unzip -o '*.zip'
+data/knmi/*.txt
+# scripts en pagina's van derden, losse hulpbestanden
+data/energynl/gen.html
+data/energynl/tools.html
+data/energynl/wpg_home.html
+data/energynl/wpg_index.js
+data/energynl/pi.json
+data/energynl/runs.log
+data/energynl/job6061.json
