@@ -56,6 +56,6 @@ Dezelfde of lagere piek, een derde minder stroom en lagere kosten. De kanttekeni
 
 - **Dat het warmtenet niet werkt.** Als enkele maatregel geeft het de grootste piekverlaging (1,6–2,4 MW), en "twee keer zoveel woningen" is in het model te reproduceren.
 - **Dat een lagetemperatuurnet beter is.** Het is zuiniger, maar in mijn raming € 0,5 mln per jaar duurder door de boosters.
-- **Dat het warmtenet meer CO₂ uitstoot.** Op de mix van 2023–2024 is het vrijwel gelijk aan lucht-water (22,0 tegen 20,7 en 17,6 tegen 17,7 kg/GJ). Alleen bij een vaste of marginale factor is het 26 % meer.
+- **Dat het warmtenet altijd meer CO₂ uitstoot dan lucht-water.** Op de mix van 2023–2024 is het vrijwel gelijk (22,0 tegen 20,7 en 17,6 tegen 17,7 kg/GJ). Bij een vaste of marginale factor is het 26 % meer. Tegenover bodem is het 21–50 % meer.
 - **Dat alternatieven niet onderzocht zijn.** Ze staan niet in de stukken, en de Arcadis-studie en de geheime businesscase zijn niet ingezien. Schrijf daarom "niet in de stukken aan de raad".
 - **Dat bewoners netto verliezen.** De brochure noemt voordelen die hier niet in euro's zijn uitgedrukt: ruimte, geen geluid, geen eigen installatie.

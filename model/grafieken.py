@@ -89,3 +89,18 @@ ax.set_yticks([2, 1, 0]); ax.set_yticklabels(stap, color=INK); ax.set_xlim(0, 23
 ax.grid(axis="x", color=RAST, lw=0.8); ax.set_axisbelow(True); ax.tick_params(length=0); ax.legend(frameon=False, loc="upper center", bbox_to_anchor=(0.5, -0.2), ncol=2, labelcolor=INK2)
 ax.set_title("Met de aansluitbijdrage meegeteld is het warmtenet duurder", x=-0.2, loc="left", color=INK, fontsize=11.5, fontweight="bold", pad=12)
 fig.tight_layout(); fig.savefig(os.path.join(F, "fig4_kosten_bewoner.png"), dpi=200); plt.close(fig)
+
+# 5. CO2 warmte per variant
+groep = ["Stroommix 2023", "Stroommix 2024", "Vaste factor\n0,14 kg/kWh", "Marginaal\n(gascentrale)"]
+waarden = {"Bodemwarmtepomp": ([16.7, 14.5, 9.7, 28.9], AQUA), "Lucht-waterwarmtepomp": ([20.7, 17.7, 11.5, 34.3], BLAUW), "Warmtenet 65 °C": ([22.0, 17.6, 14.5, 43.2], ORANJE)}
+fig, ax = plt.subplots(figsize=(8.6, 4.2))
+for k, (n, (w, kl)) in enumerate(waarden.items()):
+    xs = [i + (k - 1) * 0.27 for i in range(4)]
+    ax.bar(xs, w, width=0.25, color=kl, edgecolor=VLAK, linewidth=2, label=n)
+    for x, v in zip(xs, w):
+        ax.text(x, v + 0.7, ("%.1f" % v).replace(".", ","), ha="center", color=INK2, fontsize=8.5)
+ax.set_xticks(range(4)); ax.set_xticklabels(groep, color=INK); ax.set_ylabel("kg CO₂ per GJ geleverde warmte"); ax.set_ylim(0, 50)
+ax.yaxis.set_major_formatter(KOMMA); ax.grid(axis="y", color=RAST, lw=0.8); ax.set_axisbelow(True); ax.tick_params(length=0)
+ax.legend(frameon=False, loc="upper left", labelcolor=INK2)
+ax.set_title("Het warmtenet stoot niet minder uit, en meer dan een bodemwarmtepomp", loc="left", color=INK, fontsize=11.5, fontweight="bold", pad=12)
+fig.tight_layout(); fig.savefig(os.path.join(F, "fig5_co2.png"), dpi=200); plt.close(fig)

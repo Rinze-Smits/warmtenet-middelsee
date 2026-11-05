@@ -7,11 +7,31 @@ De gemeenteraad van Leeuwarden besluit op **23 november 2026** over een warmtene
 ## In het kort
 
 - **Voor huiseigenaren is het warmtenet duurder dan de brochure laat zien.** Niet € 68 per jaar goedkoper, maar € 304–398 per jaar duurder: **€ 9.000–12.000 per woning over 30 jaar**.
+- **Het warmtenet is niet schoner dan individuele warmtepompen.** Het stoot in het model 21–50 % meer CO₂ uit dan bodemwarmtepompen en 0–26 % meer dan lucht-waterwarmtepompen, en vraagt 23–51 % meer stroom.
 - **Getallen kloppen niet.** De aansluitbijdrage telt niet op tot het genoemde totaal en verschilt tot 55 % tussen de stukken.
 - **De netwinst, de hoofdreden, komt laat.** De installatie die de netwinst levert, draait pas in 2031. De "1.400 extra woningen" volgen niet uit de genoemde 1 MW.
 - **Het warmtenet wordt alleen vergeleken met het slechtste alternatief.** In het model haalt een bodemwarmtepomp met sturing een lagere piek met een derde minder stroom.
 
 Het warmtenet verlaagt in het model wel degelijk de piek. [Lees ook wat dit stuk niet beweert](#wat-dit-stuk-niet-beweert).
+
+## CO₂ en stroom: warmtenet tegen individuele warmtepompen
+
+De stukken noemen het warmtenet "duurzaam", maar geven geen CO₂-uitstoot of stroomverbruik. In dit eigen, indicatieve model is het warmtenet niet schoner dan de individuele warmtepompen waarmee het zou moeten concurreren.
+
+![CO2-uitstoot per geleverde GJ voor bodem, lucht-water en warmtenet](rapport/figuren/fig5_co2.png)
+
+| Warmte voor 1.647 woningen + utiliteit | Bodem | Lucht-water | Warmtenet | Warmtenet t.o.v. bodem | Warmtenet t.o.v. lucht-water |
+|---|---:|---:|---:|---:|---:|
+| Stroom voor warmte, normaal jaar (GWh) | 2,90 | 3,57 | 4,38 | **+51 %** | **+23 %** |
+| CO₂, stroommix 2023 (kg/GJ) | 16,7 | 20,7 | 22,0 | **+31 %** | +6 % |
+| CO₂, stroommix 2024 (kg/GJ) | 14,5 | 17,7 | 17,6 | **+21 %** | gelijk |
+| CO₂, vaste factor 0,14 kg/kWh (kg/GJ) | 9,7 | 11,5 | 14,5 | **+50 %** | **+26 %** |
+| CO₂, marginale gascentrale (kg/GJ) | 28,9 | 34,3 | 43,2 | **+50 %** | **+26 %** |
+| CO₂, stroommix 2023 (ton per jaar) | 671 | 833 | 881 | +210 ton | +48 ton |
+
+- **Waarom het verschil met lucht-water soms wegvalt.** Op de uurmix profiteert het warmtenet van zijn buffer: het neemt stroom af op schonere uren. Het model kent die uren vooraf, dus dit voordeel is optimistisch. De individuele warmtepompen hebben in deze tabel geen sturing; bodem met slim gestuurde boilers komt op 15,3 kg/GJ (2023).
+- **Onzekerheid.** De COP (3,5) en het netverlies (25 %) zijn aannames, omdat ze niet in de stukken staan. Bij een lagere COP vraagt het warmtenet tot 41 % meer stroom dan lucht-water en 74 % meer dan bodem; bij 15 % netverlies 9 % meer dan lucht-water.
+- **Afbakening.** Alleen stroom voor warmte, productie in Nederland zonder import, geen materialen en aanleg. De uitstoot van de tijdelijke centrale tot 2031 is onbekend en niet meegerekend. Bij een schonere stroommix krimpen de absolute verschillen, de procentuele minder.
 
 ## A. Aantoonbaar uit de stukken
 
@@ -106,7 +126,7 @@ Dezelfde of lagere piek, een derde minder stroom en lagere kosten dan het warmte
 
 ![Meerkosten tegen piek per variant](rapport/figuren/fig3_kosten_piek.png)
 
-23. **65 °C voor woningen met vloerverwarming.** De brochure toont vloerverwarming, die op circa 35 °C werkt. Ruimteverwarming is 60 % van de warmtevraag (12 van 20 GJ, eigen verdeling). Alleen tapwater heeft de hoge temperatuur nodig, en het hele net houdt die temperatuur wel aan. Gevolg: 23–41 % meer stroom dan lucht-water bij circa 25 % aangenomen netverlies, gelijk aan de warmte van circa 670 woningen per jaar.
+23. **65 °C voor woningen met vloerverwarming.** De brochure toont vloerverwarming, die op circa 35 °C werkt. Ruimteverwarming is 60 % van de warmtevraag (12 van 20 GJ, eigen verdeling). Alleen tapwater heeft de hoge temperatuur nodig, en het hele net houdt die temperatuur wel aan. Gevolg: 23–41 % meer stroom dan lucht-water en 51–74 % meer dan bodem, zie [CO₂ en stroom](#co-en-stroom-warmtenet-tegen-individuele-warmtepompen). Het aangenomen netverlies van circa 25 % staat gelijk aan de warmte van circa 670 woningen per jaar.
 24. **Slim laden ontbreekt.** Dit levert 1,2 MW piekverlaging tegen vrijwel geen meerkosten, en zou ook bovenop het warmtenet werken (2,50 → 2,31 MW). Afdwingbaarheid is de kanttekening.
 25. **De buffer lijkt krap als die op Heechterp lijkt.** Daar is de buffer circa 400 m³ voor 1.140 woningen; geschaald is dat circa 23 MWh. Met warmteprofielen uit de [TNO-generator](https://energy.nl/tools/warmteprofielengenerator/) is voor dezelfde piek circa 50 MWh nodig. De buffergrootte van Middelsee zelf is niet bekend, dus dit is geen vaststaande fout.
 
@@ -116,7 +136,7 @@ Dezelfde of lagere piek, een derde minder stroom en lagere kosten dan het warmte
 
 - **Niet dat het warmtenet niet werkt.** Als enkele maatregel geeft het in het model de grootste piekverlaging (1,6–2,4 MW), en "twee keer zoveel woningen" is te reproduceren.
 - **Niet dat een lagetemperatuurnet beter is.** Het is zuiniger, maar in de raming € 0,5 mln per jaar duurder door de boosters.
-- **Niet dat het warmtenet meer CO₂ uitstoot.** Op de stroommix van 2023–2024 is het vrijwel gelijk aan lucht-water. Alleen bij een vaste of marginale factor is het 26 % meer.
+- **Niet dat het warmtenet altijd meer CO₂ uitstoot dan lucht-water.** Op de stroommix van 2023–2024 is het daar vrijwel gelijk aan. Bij een vaste of marginale factor is het 26 % meer. Tegenover bodem is het in alle varianten meer.
 - **Niet dat alternatieven niet onderzocht zijn.** Ze staan niet in de stukken aan de raad; de Arcadis-studie en de businesscase zijn niet ingezien.
 - **Niet dat bewoners netto verliezen.** De brochure noemt voordelen die hier niet in euro's zijn uitgedrukt: ruimte, geen geluid, geen eigen installatie.
 
