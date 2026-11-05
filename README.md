@@ -8,6 +8,7 @@ De gemeenteraad van Leeuwarden besluit op **23 november 2026** over een warmtene
 
 - **Voor huiseigenaren is het warmtenet duurder dan de brochure laat zien.** Niet € 68 per jaar goedkoper, maar € 304–398 per jaar duurder: **€ 9.000–12.000 per woning over 30 jaar**.
 - **Het warmtenet is niet schoner dan individuele warmtepompen.** Het stoot in het model 21–50 % meer CO₂ uit dan bodemwarmtepompen en 0–26 % meer dan lucht-waterwarmtepompen, en vraagt 23–51 % meer stroom.
+- **Aan de overkant is te zien hoe het kan lopen.** Het warmtenet in Techum zou op biogas draaien met meer dan 50 % CO₂-reductie. Volgens het eigen warmte-etiket van de exploitant draait het nu op 100 % aardgas, met 44 % warmteverlies en meer uitstoot dan een cv-ketel.
 - **Getallen kloppen niet.** De aansluitbijdrage telt niet op tot het genoemde totaal en verschilt tot 55 % tussen de stukken.
 - **De netwinst, de hoofdreden, komt laat.** De installatie die de netwinst levert, draait pas in 2031. De "1.400 extra woningen" volgen niet uit de genoemde 1 MW.
 - **Het warmtenet wordt alleen vergeleken met het slechtste alternatief.** In het model haalt een bodemwarmtepomp met sturing een lagere piek met een derde minder stroom.
@@ -32,6 +33,22 @@ De stukken noemen het warmtenet "duurzaam", maar geven geen CO₂-uitstoot of st
 - **Waarom het verschil met lucht-water soms wegvalt.** Op de uurmix profiteert het warmtenet van zijn buffer: het neemt stroom af op schonere uren. Het model kent die uren vooraf, dus dit voordeel is optimistisch. De individuele warmtepompen hebben in deze tabel geen sturing; bodem met slim gestuurde boilers komt op 15,3 kg/GJ (2023).
 - **Onzekerheid.** De COP (3,5) en het netverlies (25 %) zijn aannames, omdat ze niet in de stukken staan. Bij een lagere COP vraagt het warmtenet tot 41 % meer stroom dan lucht-water en 74 % meer dan bodem; bij 15 % netverlies 9 % meer dan lucht-water.
 - **Afbakening.** Alleen stroom voor warmte, productie in Nederland zonder import, geen materialen en aanleg. De uitstoot van de tijdelijke centrale tot 2031 is onbekend en niet meegerekend. Bij een schonere stroommix krimpen de absolute verschillen, de procentuele minder.
+
+## Het voorbeeld van de overkant: Techum
+
+Techum en Jabikswoude, in dezelfde wijk De Zuidlanden, hebben al een warmtenet van Ennatuurlijk voor zo'n 750 huishoudens. Dat is dezelfde partij waarmee de gemeente volgens het raadsvoorstel nu in gesprek is over Middelsee.
+
+![CO2-uitstoot warmtenet De Zuidlanden tegen een cv-ketel](rapport/figuren/fig6_techum.png)
+
+| | Beloofd | Warmte-etiket 2025 |
+|---|---|---|
+| Warmtebron | Biogas uit mest van een melkveebedrijf | **100 % aardgas, 0 % hernieuwbaar** |
+| CO₂ | Meer dan 50 % reductie | **94 kg/GJ, "besparing" −61 %** |
+| Warmteverlies | | **44 %** |
+
+- **Bronnen.** De huidige cijfers komen van het [warmte-etiket van Ennatuurlijk](https://ennatuurlijk.nl/leveringsservice/in-jouw-buurt/warmte-etiket-ennatuurlijk). Het verloop 2022–2024 komt van [Warmtenetwerk](https://warmtenetwerk.nl/warmteproject/warmtenet-leeuwarden/). De belofte komt uit een [VVD-pagina uit circa 2010](https://vvd-leeuwarden.nl/index.php/archief/1484-vvd-stelt-vragen-over-problemen-stadsverwarming-techum-de-zuidlanden), dus tweedehands. Daar staat ook dat de kosten "nooit meer" zouden zijn dan bij conventionele verwarming; dat is hier niet getoetst.
+- **Wat het zegt over Middelsee.** Middelsee wordt elektrisch en gemeentelijk en is dus een ander systeem. De les gaat over beloften: een warmtebron en een duurzaamheidsclaim kunnen veranderen terwijl bewoners aangesloten blijven. In het huidige voorstel is de bron van de tijdelijke centrale tot 2031 niet beschreven.
+- **Wat het zegt over het model.** Dit stuk rekent met 25 % netverlies. Bij de 44 % van de buren zou Middelsee 5,9 GWh stroom voor warmte vragen: 64 % meer dan lucht-water en twee keer zoveel als bodem. Dat is een gevoeligheid en geen voorspelling, want een ouder net is niet zonder meer vergelijkbaar.
 
 ## A. Aantoonbaar uit de stukken
 
@@ -138,6 +155,7 @@ Dezelfde of lagere piek, een derde minder stroom en lagere kosten dan het warmte
 - **Niet dat een lagetemperatuurnet beter is.** Het is zuiniger, maar in de raming € 0,5 mln per jaar duurder door de boosters.
 - **Niet dat het warmtenet altijd meer CO₂ uitstoot dan lucht-water.** Op de stroommix van 2023–2024 is het daar vrijwel gelijk aan. Bij een vaste of marginale factor is het 26 % meer. Tegenover bodem is het in alle varianten meer.
 - **Niet dat alternatieven niet onderzocht zijn.** Ze staan niet in de stukken aan de raad; de Arcadis-studie en de businesscase zijn niet ingezien.
+- **Niet dat Middelsee afloopt zoals Techum,** en niet dat Techum duurder is geworden: daarvoor zijn hier geen cijfers.
 - **Niet dat bewoners netto verliezen.** De brochure noemt voordelen die hier niet in euro's zijn uitgedrukt: ruimte, geen geluid, geen eigen installatie.
 
 ## Bronnen
@@ -155,6 +173,12 @@ Dezelfde of lagere piek, een derde minder stroom en lagere kosten dan het warmte
 - [CE Delft, Hogetemperatuuropslag (2026)](https://ce.nl/wp-content/uploads/2026/08/CE_Delft_Greenvis_250503_Hogetemperatuuropslag_Def.pdf)
 - [TNO, Warmtevraagprofielen voor buurten (2022)](https://publications.tno.nl/publication/34639576/DVlZDB/TNO-2022-P10336.pdf)
 - [Netbeheer Nederland, meta-analyse warmtenetten (2025)](https://www.netbeheernederland.nl/sites/default/files/2025-05/slides_meta-analyse_nbnl_warmtenetten_final_2.0_-_28_04_2025.pdf)
+
+**Warmtenet De Zuidlanden (Techum)**
+
+- [Warmte-etiket Ennatuurlijk](https://ennatuurlijk.nl/leveringsservice/in-jouw-buurt/warmte-etiket-ennatuurlijk), [Warmtenet Leeuwarden, Ennatuurlijk](https://ennatuurlijk.nl/jouw-buurt/warmtenet-leeuwarden)
+- [Warmtenetwerk, project Leeuwarden](https://warmtenetwerk.nl/warmteproject/warmtenet-leeuwarden/)
+- [VVD Leeuwarden over stadsverwarming Techum](https://vvd-leeuwarden.nl/index.php/archief/1484-vvd-stelt-vragen-over-problemen-stadsverwarming-techum-de-zuidlanden)
 
 **Doorrekening**
 
