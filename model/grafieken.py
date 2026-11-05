@@ -112,7 +112,7 @@ ax.bar(lab6, w6, width=0.5, color=ORANJE, edgecolor=VLAK, linewidth=2)
 for i, v in enumerate(w6):
     ax.text(i, v + 2, ("%g" % v).replace(".", ","), ha="center", color=INK2, fontsize=9.5)
 ax.axhline(58.5, color=INK2, lw=1.2, ls=(0, (4, 3)))
-ax.text(-0.42, 60.5, "CV-ketel: circa 58,5", color=INK2, fontsize=9)
+ax.text(0.5, 60.5, "CV-ketel: circa 58,5", ha="center", color=INK2, fontsize=9)
 ax.set_ylim(0, 110); ax.set_ylabel("kg CO₂ per GJ warmte"); ax.yaxis.set_major_formatter(KOMMA)
 ax.grid(axis="y", color=RAST, lw=0.8); ax.set_axisbelow(True); ax.tick_params(length=0)
 ax.set_title("Warmtenet De Zuidlanden: van biogas naar 100 % aardgas", loc="left", color=INK, fontsize=11.5, fontweight="bold", pad=12)
